@@ -1,39 +1,47 @@
-def merge(array, p, q, r):
-    n1 = q - p + 1;
-    n2 = r - q;
+def merge(left, right):
+    merged = [];
 
+    while len(left) > 0 and len(right) > 0:
+        if (left[0] > right[0]):
+            merged.append(right[0]);
+            del right[0];
+        else:
+            merged.append(left[0]);
+            del left[0];
+
+    while len(left) > 0:
+        merged.append(left[0]);
+        del left[0];
+
+    while len(right) > 0:
+        merged.append(right[0]);
+        del right[0];
+
+    return merged;
+
+def merge_sort(array):
+    n = len(array); 
+
+    if n == 1:
+        return array;
+    
+    halfn = n / 2;
+    
     left = [];
     right = [];
 
-    for i in range(0, n1):
-        left.append(array[p + i - 1]);
-    
-    for j in range(0, n2):
-        right.append(array[q + j]);
+    for i in range(0, halfn):
+        left.append(array[i]);
 
-    left.append(999999999999);
-    right.append(99999999999);
-    i = 0;
-    j = 0;
+    for i in range(halfn, n):
+        right.append(array[i]);
 
-    for k in range(p - 1, r):
-        if left[i] <= right[j]:
-            array[k] = left[i];
-            i = i + 1;
-        else:
-            array[k] = right[j];
-            j = j + 1;
+    left = merge_sort(left);
+    right = merge_sort(right);
 
-    return array;
+    return merge(left, right);
 
-def merge_sort(array, p, r):
-    if p < r:
-        q = (p + r) / 2;
-        array = merge_sort(array, p, q);
-        array = merge_sort(array, q + 1, r);
-        return merge(array, p, q, r);
-    else:
-        return merge(array, p, 1, r);
+
 
 unsorted_array = [9, 5, 3, 8, 2, 1, 4, 7, 6, 13, 10, 12, 11];
 
@@ -42,7 +50,7 @@ for i in range(len(unsorted_array)):
 
 print "\n";
 
-sorted_array = merge_sort(unsorted_array, 0, len(unsorted_array));
+sorted_array = merge_sort(unsorted_array);
 
 for i in range(len(sorted_array)):
     print sorted_array[i];
