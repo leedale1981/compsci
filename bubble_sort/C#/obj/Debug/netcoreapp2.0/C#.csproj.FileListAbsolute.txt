@@ -1,0 +1,10 @@
+c:\src\compsci\bubble_sort\C#\bin\Debug\netcoreapp2.0\C#.deps.json
+c:\src\compsci\bubble_sort\C#\bin\Debug\netcoreapp2.0\C#.runtimeconfig.json
+c:\src\compsci\bubble_sort\C#\bin\Debug\netcoreapp2.0\C#.runtimeconfig.dev.json
+c:\src\compsci\bubble_sort\C#\bin\Debug\netcoreapp2.0\C#.dll
+c:\src\compsci\bubble_sort\C#\bin\Debug\netcoreapp2.0\C#.pdb
+c:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.csproj.CoreCompileInputs.cache
+c:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.AssemblyInfoInputs.cache
+c:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.AssemblyInfo.cs
+c:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.dll
+c:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.pdb

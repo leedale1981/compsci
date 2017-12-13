@@ -1,0 +1,1 @@
+C:\src\compsci\insertion_sort\f#\obj\Debug\netcoreapp2.0\f#.fsproj.CoreCompileInputs.cache

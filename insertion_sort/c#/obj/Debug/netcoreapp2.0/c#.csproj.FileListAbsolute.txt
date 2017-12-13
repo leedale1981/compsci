@@ -1,0 +1,10 @@
+C:\src\compsci\insertion_sort\c#\obj\Debug\netcoreapp2.0\c#.csproj.CoreCompileInputs.cache
+C:\src\compsci\insertion_sort\c#\obj\Debug\netcoreapp2.0\c#.AssemblyInfoInputs.cache
+C:\src\compsci\insertion_sort\c#\obj\Debug\netcoreapp2.0\c#.AssemblyInfo.cs
+C:\src\compsci\insertion_sort\c#\bin\Debug\netcoreapp2.0\c#.deps.json
+C:\src\compsci\insertion_sort\c#\bin\Debug\netcoreapp2.0\c#.runtimeconfig.json
+C:\src\compsci\insertion_sort\c#\bin\Debug\netcoreapp2.0\c#.runtimeconfig.dev.json
+C:\src\compsci\insertion_sort\c#\bin\Debug\netcoreapp2.0\c#.dll
+C:\src\compsci\insertion_sort\c#\bin\Debug\netcoreapp2.0\c#.pdb
+C:\src\compsci\insertion_sort\c#\obj\Debug\netcoreapp2.0\c#.dll
+C:\src\compsci\insertion_sort\c#\obj\Debug\netcoreapp2.0\c#.pdb
