@@ -1,0 +1,10 @@
+c:\src\compsci\dynamic_programming\memoization\c#\DynamicProgramming\bin\Debug\netcoreapp2.1\DynamicProgramming.deps.json
+c:\src\compsci\dynamic_programming\memoization\c#\DynamicProgramming\bin\Debug\netcoreapp2.1\DynamicProgramming.runtimeconfig.json
+c:\src\compsci\dynamic_programming\memoization\c#\DynamicProgramming\bin\Debug\netcoreapp2.1\DynamicProgramming.runtimeconfig.dev.json
+c:\src\compsci\dynamic_programming\memoization\c#\DynamicProgramming\bin\Debug\netcoreapp2.1\DynamicProgramming.dll
+c:\src\compsci\dynamic_programming\memoization\c#\DynamicProgramming\bin\Debug\netcoreapp2.1\DynamicProgramming.pdb
+c:\src\compsci\dynamic_programming\memoization\c#\DynamicProgramming\obj\Debug\netcoreapp2.1\DynamicProgramming.csproj.CoreCompileInputs.cache
+c:\src\compsci\dynamic_programming\memoization\c#\DynamicProgramming\obj\Debug\netcoreapp2.1\DynamicProgramming.AssemblyInfoInputs.cache
+c:\src\compsci\dynamic_programming\memoization\c#\DynamicProgramming\obj\Debug\netcoreapp2.1\DynamicProgramming.AssemblyInfo.cs
+c:\src\compsci\dynamic_programming\memoization\c#\DynamicProgramming\obj\Debug\netcoreapp2.1\DynamicProgramming.dll
+c:\src\compsci\dynamic_programming\memoization\c#\DynamicProgramming\obj\Debug\netcoreapp2.1\DynamicProgramming.pdb

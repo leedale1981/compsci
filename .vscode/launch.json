@@ -3,7 +3,8 @@
     // Use hover for the description of the existing attributes
     // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
     "version": "0.2.0",
-    "configurations": [{
+    "configurations": [
+        {
             "name": "Python",
             "type": "python",
             "request": "launch",
@@ -25,7 +26,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/insertion_sort/C#/bin/Debug/netcoreapp2.0/C#.dll",
+            "program": "${workspaceFolder}/dynamic_programming/memoization/c#/DynamicProgramming/bin/Debug/netcoreapp2.1/DynamicProgramming.dll",
             "args": [],
             "cwd": "${workspaceFolder}/bubble_sort/C#",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
