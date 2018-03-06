@@ -7,17 +7,23 @@ namespace lee.compsci.algos
     {
         static void Main(string[] args)
         {
-            List<int> unsortedList = new List<int>() {2,4,1,9,7,8,5};
-            List<int> sortedList = InsertionSort(unsortedList);
+            int[] unsortedList = new int[] {2,4,1,9,7,8,5};
+            int[] sortedList = InsertionSort(unsortedList);
         }
 
-        static List<int> InsertionSort(List<int> numbers)
+        // If inversion count is O(n) then complexity is O(n)
+        // Worse case inversion could is when input is in reverse order giving n*(n-1)/2 inversions.
+        // Worse case therefore is O(n^2)
+        static int[] InsertionSort(int[] numbers)
         {
-            for (int index = 0; index < numbers.Count; index++)
+            // Iterates n times
+            for (int index = 0; index < numbers.Length; index++)
             {
                 int currentValue = numbers[index];
                 int position = index;
 
+                // Iterates for number of inversions.
+                // If sorted in reverse then inversions could be n*(n-1)/2.
                 while (position > 0 && numbers[position - 1] > currentValue)
                 {
                     numbers[position] = numbers[position - 1];

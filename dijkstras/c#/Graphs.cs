@@ -1,5 +1,6 @@
 using System.Collections.ObjectModel;
 using System.Collections.Generic;
+using System.Collections;
 
 namespace lee.compsci.algos
 {
@@ -165,6 +166,21 @@ namespace lee.compsci.algos
             }
 
             return true;
+        }
+
+        public IEnumerator<Node<T>> GetEnumerator()
+        {
+            return nodeSet.GetEnumerator();
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return nodeSet.GetEnumerator();
+        }
+
+        IEnumerator<T> IEnumerable<T>.GetEnumerator()
+        {
+            return null;
         }
 
         public NodeList<T> Nodes
