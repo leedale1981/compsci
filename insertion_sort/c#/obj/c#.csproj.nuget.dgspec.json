@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "d:\\src\\compsci\\insertion_sort\\c#\\c#.csproj": {}
   },
   "projects": {
@@ -23,15 +24,35 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+=======
+    "/home/leedale/src/compsci/insertion_sort/c#/c#.csproj": {}
+  },
+  "projects": {
+    "/home/leedale/src/compsci/insertion_sort/c#/c#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leedale/src/compsci/insertion_sort/c#/c#.csproj",
+        "projectName": "c#",
+        "projectPath": "/home/leedale/src/compsci/insertion_sort/c#/c#.csproj",
+        "packagesPath": "/home/leedale/.nuget/packages/",
+        "outputPath": "/home/leedale/src/compsci/insertion_sort/c#/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leedale/.nuget/NuGet/NuGet.Config"
+>>>>>>> 668c4d5252fc7a6a144be18dcad9b432af769e35
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.0"
         ],
         "sources": {
+<<<<<<< HEAD
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/Providor/_packaging/Providor.Dev/nuget/v3/index.json": {}
+=======
+          "https://api.nuget.org/v3/index.json": {}
+>>>>>>> 668c4d5252fc7a6a144be18dcad9b432af769e35
         },
         "frameworks": {
           "netcoreapp2.0": {
@@ -62,11 +83,20 @@
             "net47",
             "net471",
             "net472",
+<<<<<<< HEAD
             "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.3.22179.4\\RuntimeIdentifierGraph.json"
+=======
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+>>>>>>> 668c4d5252fc7a6a144be18dcad9b432af769e35
         }
       }
     }

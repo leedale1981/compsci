@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = BinarySearch
+<<<<<<< HEAD
 build_property.ProjectDir = d:\src\compsci\binary_search\c#\BinarySearch\
+=======
+build_property.ProjectDir = /home/leedale/src/compsci/binary_search/c#/BinarySearch/
+>>>>>>> 668c4d5252fc7a6a144be18dcad9b432af769e35

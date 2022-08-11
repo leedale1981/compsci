@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "P9FWz5PF2Yde0CZjF7PmtAxsgkwdd7TnOxHMInyrvUzgklWMna4Ky5vyni3eV0clN2mJGQIZJf9xfRBgWXBTWw==",
   "success": true,
   "projectFilePath": "D:\\src\\compsci\\insertion_sort\\c#\\csharp.csproj",
@@ -8,6 +9,18 @@
     "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.3\\microsoft.windowsdesktop.app.ref.6.0.3.nupkg.sha512",
     "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.3\\microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
     "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.3\\microsoft.netcore.app.host.win-x64.6.0.3.nupkg.sha512"
+=======
+  "dgSpecHash": "1nXqrYUwF1pgiv4XC6TWzJE/jUXFuKDTfEWWj5x/mlYqCVnw6CxySDoYnxvxo709O/Hxu+DYGWxQqPOlnRDcfQ==",
+  "success": true,
+  "projectFilePath": "/home/leedale/src/compsci/insertion_sort/c#/c#.csproj",
+  "expectedPackageFiles": [
+    "/home/leedale/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/home/leedale/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/home/leedale/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/home/leedale/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/home/leedale/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/home/leedale/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+>>>>>>> 668c4d5252fc7a6a144be18dcad9b432af769e35
   ],
   "logs": []
 }

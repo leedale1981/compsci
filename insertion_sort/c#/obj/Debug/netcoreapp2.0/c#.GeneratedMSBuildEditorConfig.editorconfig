@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = c#
+<<<<<<< HEAD
 build_property.ProjectDir = d:\src\compsci\insertion_sort\c#\
+=======
+build_property.ProjectDir = /home/leedale/src/compsci/insertion_sort/c#/
+>>>>>>> 668c4d5252fc7a6a144be18dcad9b432af769e35
