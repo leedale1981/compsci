@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5318pbkPlS4/KcrXM78afullrlrTBjavzvCfCwRhnqaDLxd8ZVG2pNYkvSBnghm4y2YfLZ0jftZdmxPxawTaJg==",
+  "success": true,
+  "projectFilePath": "/home/omoton/src/compsci/binary_tree/c#/BinaryTree.csproj",
+  "expectedPackageFiles": [
+    "/home/omoton/.nuget/packages/microsoft.netcore.app.ref/6.0.6/microsoft.netcore.app.ref.6.0.6.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.6/microsoft.netcore.app.host.linux-x64.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
