@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+mbisVq8AyZB4KOjGKqltK91E6neCDvbMKfXVolCcl1UGjLO7J3JoAxnY0YrPQiRlr/8rDHNe99eBbKB8we4w==",
+  "success": true,
+  "projectFilePath": "D:\\src\\compsci\\hash-table\\c#\\HashTables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.3\\microsoft.netcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.3\\microsoft.windowsdesktop.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.3\\microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.3\\microsoft.netcore.app.host.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
