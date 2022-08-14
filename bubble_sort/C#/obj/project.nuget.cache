@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WxhJmAYgAUto0Ut3XCaW43jNh9Fw2hvg0U5zJu4SowtOfYvfhxS4CaFt5FxTTR3NOlk6xXfs6oXFJYZ0Q8thSA==",
+  "success": true,
+  "projectFilePath": "/home/omoton/src/compsci/bubble_sort/C#/C#.csproj",
+  "expectedPackageFiles": [
+    "/home/omoton/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

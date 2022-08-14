@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ddh300hZTeTMr4Z6auiCnAOja+4iZcUbX3/YqKTYzl3zYesO58b7rgS8o/AVgls5R7igFl3SO2vGR0y9M/5YKw==",
+  "success": true,
+  "projectFilePath": "/home/omoton/src/compsci/dynamic_programming/memoization/c#/DynamicProgramming/DynamicProgramming.csproj",
+  "expectedPackageFiles": [
+    "/home/omoton/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/home/omoton/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
