@@ -8,11 +8,19 @@ namespace Lee.CompSci.DataStructures
         static void Main(string[] args)
         {
             BinaryTree tree = GetBinaryTree();
-            
+
             Console.WriteLine("----------------------------");
             Console.WriteLine("In-Order Traversal");
             tree.WriteOutInOrderTraversal();
-            
+
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("Pre-Order Traversal");
+            tree.WriteOutPreOrderTraversal();
+
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("Post-Order Traversal");
+            tree.WriteOutPostOrderTraversal();
+
 
         }
 
@@ -20,7 +28,7 @@ namespace Lee.CompSci.DataStructures
         {
             return new()
             {
-                RootNode = new() 
+                RootNode = new()
                 {
                     Value = 10,
                     Left = new()
@@ -33,9 +41,9 @@ namespace Lee.CompSci.DataStructures
                     {
                         Value = 20,
                         Left = new() { Value = 3 },
-                        Right = new() { Value = 7}
+                        Right = new() { Value = 7 }
                     }
-                }     
+                }
             };
         }
     }

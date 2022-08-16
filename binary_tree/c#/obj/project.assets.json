@@ -8,25 +8,39 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/omoton/.nuget/packages/": {}
+    "C:\\Users\\leedale1981\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/omoton/src/compsci/binary_tree/c#/BinaryTree.csproj",
+      "projectUniqueName": "D:\\src\\compsci\\binary_tree\\c#\\BinaryTree.csproj",
       "projectName": "BinaryTree",
-      "projectPath": "/home/omoton/src/compsci/binary_tree/c#/BinaryTree.csproj",
-      "packagesPath": "/home/omoton/.nuget/packages/",
-      "outputPath": "/home/omoton/src/compsci/binary_tree/c#/obj/",
+      "projectPath": "D:\\src\\compsci\\binary_tree\\c#\\BinaryTree.csproj",
+      "packagesPath": "C:\\Users\\leedale1981\\.nuget\\packages\\",
+      "outputPath": "D:\\src\\compsci\\binary_tree\\c#\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/home/omoton/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\leedale1981\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/Providor/_packaging/Providor.Dev/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -49,23 +63,26 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.6, 6.0.6]"
+            "version": "[6.0.3, 6.0.3]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[6.0.6, 6.0.6]"
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.3, 6.0.3]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.6, 6.0.6]"
+            "version": "[6.0.3, 6.0.3]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.3, 6.0.3]"
           }
         ],
         "frameworkReferences": {
@@ -73,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/omoton/dotnet/sdk/7.0.100-preview.6.22352.1/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.3.22179.4\\RuntimeIdentifierGraph.json"
       }
     }
   }

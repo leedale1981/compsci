@@ -6,7 +6,6 @@ namespace Lee.CompSci.DataStructures
     {
         public static void WriteOutInOrderTraversal(this BinaryTree tree)
         {
-            Console.WriteLine(tree.RootNode.Value);
             InOrderTraversal(tree.RootNode);
         }
 
@@ -22,7 +21,6 @@ namespace Lee.CompSci.DataStructures
 
         public static void WriteOutPreOrderTraversal(this BinaryTree tree)
         {
-            Console.WriteLine(tree.RootNode.Value);
             PreOrderTraversal(tree.RootNode);
         }
 
@@ -34,6 +32,11 @@ namespace Lee.CompSci.DataStructures
                 PreOrderTraversal(node.Left);
                 PreOrderTraversal(node.Right);
             }
+        }
+
+        public static void WriteOutPostOrderTraversal(this BinaryTree tree)
+        {
+            PostOrderTraversal(tree.RootNode);
         }
 
         private static void PostOrderTraversal(BinaryNode node)

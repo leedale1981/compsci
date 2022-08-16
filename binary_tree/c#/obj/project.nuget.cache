@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5318pbkPlS4/KcrXM78afullrlrTBjavzvCfCwRhnqaDLxd8ZVG2pNYkvSBnghm4y2YfLZ0jftZdmxPxawTaJg==",
+  "dgSpecHash": "Ft1xFpDVEWGd38AS5LnCyPdlSX9HxVtYQrArGKvlUgvBB6aWXfk9wznBvaqx6/pG953OBt9slVjUln4/QnhS/Q==",
   "success": true,
-  "projectFilePath": "/home/omoton/src/compsci/binary_tree/c#/BinaryTree.csproj",
+  "projectFilePath": "D:\\src\\compsci\\binary_tree\\c#\\BinaryTree.csproj",
   "expectedPackageFiles": [
-    "/home/omoton/.nuget/packages/microsoft.netcore.app.ref/6.0.6/microsoft.netcore.app.ref.6.0.6.nupkg.sha512",
-    "/home/omoton/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
-    "/home/omoton/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.6/microsoft.netcore.app.host.linux-x64.6.0.6.nupkg.sha512"
+    "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.3\\microsoft.netcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.3\\microsoft.windowsdesktop.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.3\\microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.3\\microsoft.netcore.app.host.win-x64.6.0.3.nupkg.sha512"
   ],
   "logs": []
 }
