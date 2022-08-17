@@ -5,7 +5,7 @@ namespace Lee.CompSci.DataStructures
 {
     public static class RunLengthEncoder
     {
-        public static string EncodeAscii(string input)
+        public static string Encode(string input)
         {
             if (string.IsNullOrEmpty(input))
             {
@@ -53,7 +53,7 @@ namespace Lee.CompSci.DataStructures
             return runs;
         }
 
-        private static string EncodeAsciiRun(string input)
+        private static string EncodeRun(string input)
         {
             char letter = input[0];
             int count = input.Length;

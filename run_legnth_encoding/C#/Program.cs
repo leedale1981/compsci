@@ -10,6 +10,5 @@ namespace Lee.CompSci.DataStructures
 
             Console.WriteLine(output);
         }
-
     }
 }
