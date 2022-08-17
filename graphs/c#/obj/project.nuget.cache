@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Sz3l3fcHi6d+U59IydjgUqPjKsEZW4BuGQuXlNPbIHF8LY9wnAZGTx7LBw2ROK3090JnrcGrXOnBjxgb+e3Fw==",
+  "dgSpecHash": "145fA2LbRIx3B7NURtjshQc6xBfILwwtmiFwA5AXhTF00Mk4tmoeNW5lzXvpgukTz57G+qe8nEXrchjI67XLxA==",
   "success": true,
-  "projectFilePath": "d:\\src\\compsci\\graphs\\c#\\Graphs.csproj",
+  "projectFilePath": "D:\\src\\compsci\\graphs\\c#\\Graphs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.3\\microsoft.netcore.app.ref.6.0.3.nupkg.sha512",
     "C:\\Users\\leedale1981\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.3\\microsoft.windowsdesktop.app.ref.6.0.3.nupkg.sha512",

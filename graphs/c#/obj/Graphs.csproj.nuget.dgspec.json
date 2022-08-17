@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\src\\compsci\\graphs\\c#\\Graphs.csproj": {}
+    "D:\\src\\compsci\\graphs\\c#\\Graphs.csproj": {}
   },
   "projects": {
-    "d:\\src\\compsci\\graphs\\c#\\Graphs.csproj": {
+    "D:\\src\\compsci\\graphs\\c#\\Graphs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\src\\compsci\\graphs\\c#\\Graphs.csproj",
+        "projectUniqueName": "D:\\src\\compsci\\graphs\\c#\\Graphs.csproj",
         "projectName": "Graphs",
-        "projectPath": "d:\\src\\compsci\\graphs\\c#\\Graphs.csproj",
+        "projectPath": "D:\\src\\compsci\\graphs\\c#\\Graphs.csproj",
         "packagesPath": "C:\\Users\\leedale1981\\.nuget\\packages\\",
-        "outputPath": "d:\\src\\compsci\\graphs\\c#\\obj\\",
+        "outputPath": "D:\\src\\compsci\\graphs\\c#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
