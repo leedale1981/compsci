@@ -1,0 +1,15 @@
+D:\src\compsci\run_legnth_encoding\C#\bin\Debug\net6.0\RunLengthEncoding.exe
+D:\src\compsci\run_legnth_encoding\C#\bin\Debug\net6.0\RunLengthEncoding.deps.json
+D:\src\compsci\run_legnth_encoding\C#\bin\Debug\net6.0\RunLengthEncoding.runtimeconfig.json
+D:\src\compsci\run_legnth_encoding\C#\bin\Debug\net6.0\RunLengthEncoding.dll
+D:\src\compsci\run_legnth_encoding\C#\bin\Debug\net6.0\RunLengthEncoding.pdb
+D:\src\compsci\run_legnth_encoding\C#\obj\Debug\net6.0\RunLengthEncoding.csproj.AssemblyReference.cache
+D:\src\compsci\run_legnth_encoding\C#\obj\Debug\net6.0\RunLengthEncoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\compsci\run_legnth_encoding\C#\obj\Debug\net6.0\RunLengthEncoding.AssemblyInfoInputs.cache
+D:\src\compsci\run_legnth_encoding\C#\obj\Debug\net6.0\RunLengthEncoding.AssemblyInfo.cs
+D:\src\compsci\run_legnth_encoding\C#\obj\Debug\net6.0\RunLengthEncoding.csproj.CoreCompileInputs.cache
+D:\src\compsci\run_legnth_encoding\C#\obj\Debug\net6.0\RunLengthEncoding.dll
+D:\src\compsci\run_legnth_encoding\C#\obj\Debug\net6.0\refint\RunLengthEncoding.dll
+D:\src\compsci\run_legnth_encoding\C#\obj\Debug\net6.0\RunLengthEncoding.pdb
+D:\src\compsci\run_legnth_encoding\C#\obj\Debug\net6.0\RunLengthEncoding.genruntimeconfig.cache
+D:\src\compsci\run_legnth_encoding\C#\obj\Debug\net6.0\ref\RunLengthEncoding.dll
