@@ -2,6 +2,7 @@ class BubbleSort {
     sort(input) {
         // Make as many passes through the input as there are items.
         for (let passIndex = 0; passIndex < input.length; passIndex++) {
+            // Now iterate the input and do the swapping.
             for (let index = 0; index < input.length; index++) {
                 let firstItem = input[index];
                 let secondItem = input[index + 1]
