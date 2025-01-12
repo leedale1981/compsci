@@ -2,7 +2,9 @@
 
 void SinglyLinkedList::InsertAfter(Node* nodeA, Node* nodeB)
 {
-    
+    Node *nodeANext = nodeA->GetNext();
+    nodeB->SetNext(nodeANext);
+    nodeA->SetNext(nodeB);
 }
 
 void SinglyLinkedList::Add(Node* node)
@@ -26,4 +28,23 @@ Node * SinglyLinkedList::GetTail() const
     }
 }
 
+Node* SinglyLinkedList::FindByValue(std::string value) const
+{
+    Node *currentNode = m_headPtr;
+
+    while (currentNode->GetValue() != value)
+    {
+        currentNode = currentNode->GetNext();
+            
+        if (currentNode->GetValue() == value)
+        {
+            return currentNode;
+        }
+            
+        if (currentNode == m_tailPtr)
+        {
+            return nullptr;    
+        }
+    }
+}
 

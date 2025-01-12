@@ -19,4 +19,6 @@ public:
 
     void Add(Node *node);
     void InsertAfter(Node *nodeA, Node *nodeB);
+
+    Node *FindByValue(std::string value) const;
 };
