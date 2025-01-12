@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>Practice.Stack.Benchmarks-20250103-160201</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.14.0, Windows 11 (10.0.22635.4655)
+Intel Core i7-8700K CPU 3.70GHz (Coffee Lake), 1 CPU, 12 logical and 6 physical cores
+.NET SDK 8.0.111
+  [Host] : .NET 8.0.11 (8.0.1124.51707), X64 RyuJIT AVX2
+</code></pre>
+<pre><code>Job=MediumRun  Toolchain=InProcessNoEmitToolchain  IterationCount=15  
+LaunchCount=2  WarmupCount=10  
+</code></pre>
+
+<table>
+<thead><tr><th>Method                    </th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th><th>Gen0</th><th>Gen1</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>BenchmarkCustomStack</td><td>2.614 &mu;s</td><td>0.0490 &mu;s</td><td>0.0687 &mu;s</td><td>2.617 &mu;s</td><td>1.6594</td><td>0.0343</td><td>10.19 KB</td>
+</tr><tr><td>BenchmarkBclStack</td><td>7.870 &mu;s</td><td>0.1094 &mu;s</td><td>0.1533 &mu;s</td><td>7.982 &mu;s</td><td>7.1106</td><td>0.6409</td><td>43.58 KB</td>
+</tr><tr><td>BenchmarkBclStackWithParsedValue</td><td>23.132 &mu;s</td><td>0.1032 &mu;s</td><td>0.1513 &mu;s</td><td>23.095 &mu;s</td><td>10.6812</td><td>0.9460</td><td>65.45 KB</td>
+</tr></tbody></table>
+</body>
+</html>

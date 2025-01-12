@@ -15,34 +15,11 @@ namespace BinarySearch
             int[] sortedList = InsertionSort(list);
 
             // Search for number 3
-            int searchResult = BinarySearch(list, 0, list.Length, 3);
+            int searchResult = BinarySearch1.BinarySearch(list, 0, list.Length, 3);
 
             // Total complexity of insertion sort with binary search is 
             // O(n log n) however worse case can be O(n^2 log n)
-        }
-
-        // Due to the halving of the input on each call, the growth factor is logarithmic.
-        // Therefore the binary search has O(log n) complexity.
-        static int BinarySearch(int[] list, int first, int last, int target)
-        {
-            // Each halving of the input gives us a logarithmic growth factor.
-            var middle = (first + last) / 2;
-
-            if (target == list[middle])
-            {
-                return list[middle];
-            }
-            else
-            {
-                if (target < list[middle])
-                {
-                    return BinarySearch(list, first, middle - 1, target);
-                }
-                else
-                {
-                    return BinarySearch(list, middle + 1, last, target);
-                }
-            }
+            Console.WriteLine(searchResult);
         }
 
         // If inversion count is O(n) then complexity is O(n)

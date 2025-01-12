@@ -1,0 +1,15 @@
+D:\src\compsci\breadth_first_search\C#\Example.BFS\obj\Debug\net8.0\Example.BFS.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\compsci\breadth_first_search\C#\Example.BFS\obj\Debug\net8.0\Example.BFS.AssemblyInfoInputs.cache
+D:\src\compsci\breadth_first_search\C#\Example.BFS\obj\Debug\net8.0\Example.BFS.AssemblyInfo.cs
+D:\src\compsci\breadth_first_search\C#\Example.BFS\obj\Debug\net8.0\Example.BFS.csproj.CoreCompileInputs.cache
+D:\src\compsci\breadth_first_search\C#\Example.BFS\obj\Debug\net8.0\Example.BFS.sourcelink.json
+D:\src\compsci\breadth_first_search\C#\Example.BFS\bin\Debug\net8.0\Example.BFS.exe
+D:\src\compsci\breadth_first_search\C#\Example.BFS\bin\Debug\net8.0\Example.BFS.deps.json
+D:\src\compsci\breadth_first_search\C#\Example.BFS\bin\Debug\net8.0\Example.BFS.runtimeconfig.json
+D:\src\compsci\breadth_first_search\C#\Example.BFS\bin\Debug\net8.0\Example.BFS.dll
+D:\src\compsci\breadth_first_search\C#\Example.BFS\bin\Debug\net8.0\Example.BFS.pdb
+D:\src\compsci\breadth_first_search\C#\Example.BFS\obj\Debug\net8.0\Example.BFS.dll
+D:\src\compsci\breadth_first_search\C#\Example.BFS\obj\Debug\net8.0\refint\Example.BFS.dll
+D:\src\compsci\breadth_first_search\C#\Example.BFS\obj\Debug\net8.0\Example.BFS.pdb
+D:\src\compsci\breadth_first_search\C#\Example.BFS\obj\Debug\net8.0\Example.BFS.genruntimeconfig.cache
+D:\src\compsci\breadth_first_search\C#\Example.BFS\obj\Debug\net8.0\ref\Example.BFS.dll

@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BHiIqc70jjcHsCMZc+OLOSrcAhdm16UCGRSuYbYuAYdyrDrvSFBgk4F+RAFtw04oYNPlZ5Ttz9bMdfsgHpjzbg==",
+  "dgSpecHash": "NuemyKGb774=",
   "success": true,
-  "projectFilePath": "/home/leedale/src/compsci/binary_search/c#/BinarySearch/BinarySearch.csproj",
-  "expectedPackageFiles": [
-    "/home/leedale/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "/home/leedale/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "/home/leedale/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "/home/leedale/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "/home/leedale/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "/home/leedale/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "/home/leedale/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\src\\compsci\\binary_search\\c#\\BinarySearch\\BinarySearch.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
