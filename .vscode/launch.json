@@ -4,28 +4,12 @@
     // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
     "version": "0.2.0",
     "configurations": [
-    {
-        "name": "Launch file",
-        "type": "go",
-        "request": "launch",
-        "mode": "debug",
-        "program": "${file}"
-    },
         {
-            "name": "Python",
-            "type": "python",
+            "name": "Launch Go file",
+            "type": "go",
             "request": "launch",
-            "stopOnEntry": true,
-            "python": "${command:python.interpreterPath}",
-            "program": "${file}",
-            "cwd": "${workspaceRoot}",
-            "env": {},
-            "envFile": "${workspaceRoot}/.env",
-            "debugOptions": [
-                "WaitOnAbnormalExit",
-                "WaitOnNormalExit",
-                "RedirectOutput"
-            ]
+            "mode": "debug",
+            "program": "${workspaceFolder}/dynamic_programming/memoization/Go/main.go",
         },
         {
             "name": ".NET Core Launch (console)",

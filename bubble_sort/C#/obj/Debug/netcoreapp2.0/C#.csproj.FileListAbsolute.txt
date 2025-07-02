@@ -8,3 +8,17 @@ c:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.AssemblyInfoInputs.cach
 c:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.AssemblyInfo.cs
 c:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.dll
 c:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.pdb
+D:\src\compsci\bubble_sort\C#\bin\Debug\netcoreapp2.0\C#.deps.json
+D:\src\compsci\bubble_sort\C#\bin\Debug\netcoreapp2.0\C#.runtimeconfig.json
+D:\src\compsci\bubble_sort\C#\bin\Debug\netcoreapp2.0\C#.runtimeconfig.dev.json
+D:\src\compsci\bubble_sort\C#\bin\Debug\netcoreapp2.0\C#.dll
+D:\src\compsci\bubble_sort\C#\bin\Debug\netcoreapp2.0\C#.pdb
+D:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.csproj.AssemblyReference.cache
+D:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.AssemblyInfoInputs.cache
+D:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.AssemblyInfo.cs
+D:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.csproj.CoreCompileInputs.cache
+D:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.sourcelink.json
+D:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.dll
+D:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.pdb
+D:\src\compsci\bubble_sort\C#\obj\Debug\netcoreapp2.0\C#.genruntimeconfig.cache
